@@ -3,12 +3,14 @@ version: 0.1
 phases:
   install:
     commands:
-      - gem install bundler jekyll jekyll-paginate jekyll-sitemap jekyll-gist
+      - gem install bundler # jekyll jekyll-paginate jekyll-sitemap jekyll-gist
   build:
     commands:
       - echo "******** Install Bundles ********"
       - bundle install
+      - echo "******** Runnin RSPEC - this should also be building the static site ********"
+      - bundle exec rspec
       - echo "******** Building Jekyll site ********"
-      - bundle exec jekyll build
+      - echo "bundle exec jekyll build"
       - echo "******** Uploading to S3 ********"
       - aws s3 sync _site/ s3://disruptive.cloud
