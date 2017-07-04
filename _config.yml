@@ -16,11 +16,12 @@
 title: disruptive.cloud
 email: jeroenvdoorn [at] gmail [dot] com
 description: > 
-  Jeroen van Doorn's blog on tech and other random ramblings - 
+  Jeroen van Doorn's blog on cloud technology and other tech encounters
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://disruptive.cloud" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jevado
 github_username:  jevado
+linkedin_username: jevado
 timezone: Europe/Amsterdam
 encoding: utf-8 # though it's default I like to spell it out
 exclude: [spec]
