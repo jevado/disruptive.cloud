@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Habits"
+date:   2017-07-12 18:00:00 +0200
+categories: jekyll update
+---
+
+Last week I wrote that finding a rhythm is quite hard, but starting something 'new' is often an even bigger hurdle. Since I've conquered that first step yet again and I don't want to quit after one week already, I thought I would share a source of inspiration when it comes to habits and change.
+
+Over more than 2 years ago I discovered a blog by [James Clear][james-clear], James writes, among other things, about habits and human potential. His articles helped me a lot with self improvement and I want to highlight just one of his most popular articles in which he advices not to set goals.
+
+Totally not doing [the article][james-habits] justice, but it can be reduced to answering the following question; *If you completely ignored your goals and focused only on your system, would you still get results?* He argues the answer is yes and you simply commit to a process and not a goal. I can only speak for myself but the insights into counterproductive human behaviour are really recognisable.
+
+Creating a process is exactly what I'm going to do. I'm committing to publishing at least one blog article a week on Thursday latest, by working at least 1 hour on Tuesday and 1 hour on Wednesday on articles and experimenting with new stuff. The process will probably change over time, but that doesn't really matter at this point. For now, the only thing I want is experiment with new stuff and write about it and this is the process that will help me with that.
+
+Though [James][james-clear] doesn't publish as much as he used to, I still highly recommend subscribing to his news letter and read through his most popular articles.
+
+Till next week!
+
+[james-clear]: https://jamesclear.com/
+[james-habits]: https://jamesclear.com/goals-systems
