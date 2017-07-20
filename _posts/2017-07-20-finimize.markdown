@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Finimize"
+date:   2017-07-20 17:00:00 +0200
+tags:
+    - self-improvement
+---
+An extra post this week, something I'm really enthusiastic about!
+
+Through a newsletter from [cbinsights][cbinsights] I stumbled upon another [newsletter from Finimize][finimize-signup]. Since the financial crisis started around 2008, I've been very interested in how global financial markets work and I now wish that I had discovered them earlier and they where around back then. 
+
+If you're not a financial, or even when you are, and want to get a feel for what is happening financially globally without having to know jargon, you can [signup][finimize-signup] for their newsletter for free. The newsletter will take you around 3 minutes to read every day and I really like the way they structure the articles. They really prove that finance doesn't have to be rocket science.
+
+Still not convinced? Check out an [example newsletter][finimize-example] on Netflix and Pearson
+
+[cbinsights]: https://www.cbinsights.com/
+[finimize-signup]: http://insider.finimize.com?kid=G6E15
+[finimize-example]: http://us10.campaign-archive2.com/?u=fd92d4d6912bf051aceebbc27&id=2ed6930954

@@ -2,9 +2,9 @@
 layout: post
 title:  "Habits"
 date:   2017-07-12 18:00:00 +0200
-categories: jekyll update
+tags:
+    - self-improvement
 ---
-
 Last week I wrote that finding a rhythm is quite hard, but starting something 'new' is often an even bigger hurdle. Since I've conquered that first step yet again and I don't want to quit after one week already, I thought I would share a source of inspiration when it comes to habits and change.
 
 Over more than 2 years ago I discovered a blog by [James Clear][james-clear], James writes, among other things, about habits and human potential. His articles helped me a lot with self improvement and I want to highlight just one of his most popular articles in which he advices not to set goals.

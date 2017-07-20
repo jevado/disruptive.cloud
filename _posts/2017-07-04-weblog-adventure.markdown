@@ -2,7 +2,9 @@
 layout: post
 title:  "Another weblog adventure"
 date:   2017-07-04 21:00:00 +0200
-categories: jekyll update
+tags:
+    - jekyll
+    - general
 ---
 Several years ago I lost count of how many times I actually restarted blogging, somehow it's really hard to find and keep a rythm and I stopped and started many times over. Yet recently I found myself thinking on several occasions that it would be a nice idea to start doing it once again.
 
