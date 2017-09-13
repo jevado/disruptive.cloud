@@ -27,6 +27,9 @@ encoding: utf-8 # though it's default I like to spell it out
 exclude: [spec]
 google_analytics: UA-102459461-1
 
+disqus:
+    shortname: disruptive-cloud
+
 # Build settings
 markdown: kramdown
 theme: minima
